@@ -6,7 +6,7 @@ We used following datasets for the project.
    This is the link for the poster dataset of 26938 of 27278 movies in the above CSV file. We removed the data corresponding to remaining 340 movies (whose posters were not            available) from the CSV file also.
 - Final Result - The model gave around 18% accuracy for all genres correct prediction. Here are the top 5 movies on the basis of their recall score.
 
-   | Genre    | Recall |
+   | **Genre**    | **Recall** |
    | -------- | ------ |
    | Comedy   | 0.61   |
    | Drama    | 0.53   |
