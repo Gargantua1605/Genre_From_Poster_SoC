@@ -1,5 +1,4 @@
 # Poster Genre Classification Using CNN
-We used following datasets for the project.
 - Source paper for reference : http://cs229.stanford.edu/proj2019spr/report/9.pdf
 - CSV file link : https://www.kaggle.com/grouplens/movielens-20m-dataset
    This is the link for the CSV file which contains title of the movies and their corresponding genres. There were total 27278 movies in the file. Each movie is classified in a few    of the 20 genres. Of the 20 genres one was "No genre available".
