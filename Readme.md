@@ -15,4 +15,5 @@
    | Documentary| 0.18       | 0.13         | 80%          |
    | Drama      | 0.14       | 0.22         | 51%          |
 
-- Personal Contribution  : The keras implementation of the model and parts of the preprocessing of the data have been done by me.
+- Personal Contribution  : Data preprocessing (which involved going through multiple datasets to find a suitable one and removing the missing data points) and parts of hyperparameter tuning for the model were done by me
+
